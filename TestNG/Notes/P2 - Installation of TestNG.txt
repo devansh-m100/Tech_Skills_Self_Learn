@@ -1,0 +1,45 @@
+
+1 This TestNg framework is available in the form of a library.
+
+2 Then we added the testng dependency in pom file that dependency of test ng we took from maven repository online.
+
+3 New TestNg class is created in src/test/java. A default package is automatically created. 
+
+4 Since a default package is created so explicitly the package name is not imported or specified in the above line in the java file.
+
+5 Test Method when we add we add it using @Test annotation, 
+
+6 Run Configurations in run as on right clicking are obtained by eclipse ide and not by the project we create. So by default eclipse ide is not configured by testng software.
+
+7 So we need to install testng software to eclipse ide.
+
+8 When we adding .jar file to the the eclipse project, we need to create a new folder, it is not compulsory, but it is a good software tester practice.
+
+9 when we add dependency to the pom.xml, the jar file of testng is downloaded by maven only, but when we have created our new simple project, we have to add the testng dependency by taking the .jar file from maven repository only.
+
+10 Download the .jar file from mvn repo online & then copy that file.
+
+11 This is the way we add .jar file to the normal project that we create, rather than from pom.xml testng file.
+
+12 So these are 2 ways of running eclipse as per given above.
+
+13 The 2 ways of installing testng in eclipse from outside eclipse are - a) Eclipse Marketplace & b) 
+
+**Here is the notes of the youtuber - 
+In this video, I have explained about "Installation of TestNG".
+
+*****Installation of TestNG -> 
+
+1) Install the plugin for IDE(Eclipse/IntelliJ/Netbeans) (Can be installed in 4 ways for eclipse IDE)
+
+  -- From within the eclipse IDE (2 ways)
+     -- Help - Marketplace
+     -- Help - Install New Software
+
+  -- From outside eclipse
+     -- Drag install button available in eclipse plugin github repo
+     -- Drag install button available in eclipse marketplace
+
+2) Install the TestNG libraries inside the project
+  -- Maven Project
+  -- Normal Java Project

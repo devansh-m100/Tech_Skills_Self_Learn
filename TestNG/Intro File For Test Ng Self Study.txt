@@ -1,0 +1,5 @@
+
+
+This is the collection of TestNG Self Study.
+
+For this I am referring the tutorial H Y R Tutorials which is / was the first video playlist that I got for TestNG tutorial as per & according to Youtube Algorithm.

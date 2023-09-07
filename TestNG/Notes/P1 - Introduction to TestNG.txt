@@ -1,0 +1,9 @@
+
+
+1 TestNG is a testing framework for Java Programming Language. That is it will not work for any other programming language.
+
+2 Inspired by the JUnit (For Java) & NUnit (For .Net) (which are also testing framework available in market today but was used as a previous generation) but TestNG is for new generation.
+
+3 Created By Cedric Beurst.
+
+4 Can be used for unit, end - to - end, integration, functional testing....etc.
