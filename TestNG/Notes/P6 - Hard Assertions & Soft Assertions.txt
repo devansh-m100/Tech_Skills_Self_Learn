@@ -1,0 +1,24 @@
+8/9/2023 - 
+
+Tutorial Notes - 
+
+In this video, I have explained about "Hard Assertions vs Soft Assertions in TestNG".
+
+What is a hard assertion?
+What is a soft assertion?
+What is the difference between hard assertion & soft assertion ?
+How to use the soft assertions?
+
+My Own Notes - 
+
+1) When we are using assertEquals() & if it fails, the further part of code is not executed.
+Like driver.quit() did not get executed.
+
+2) Hard assertion is the assertion which throws exception immediately upon failure of assertion & further part of code is NOT executed.
+
+3) Soft assertion we can throw exception at the end of the page & further part of code is executed.
+
+4) For soft assertion, use soft assertion object of soft assertion class & put it like
+
+
+

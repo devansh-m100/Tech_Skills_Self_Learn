@@ -1,0 +1,23 @@
+8/9/2023 - 
+
+Tutorial notepad notes - 
+
+Points Covered:
+What is testng xml?
+What is the need of testng xml?
+How to create testng xml file?
+How to add the tests to testng xml file?
+How to execute the tests using testng xml?
+
+My Points - 
+
+1) Whatever functions we wanna run in testng class that all will be added to xml file.
+
+2) xml file consists of the details of the functions we are running in testng class file.
+
+3) Always save xml file in resources folder.
+
+4) In Java files are saved like, - package -> classes -> methods
+   In TestNg - TestSuite -> TEsts -> TestCases -> TestSteps
+
+5) Here we are first learning to create xml manually first then we will learn to automate xml

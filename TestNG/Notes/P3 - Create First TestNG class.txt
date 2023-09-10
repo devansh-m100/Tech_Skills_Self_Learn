@@ -1,0 +1,7 @@
+7th September 2023 
+
+1) To run selenium code we then also install selenium & webdriver dependencies from maven repository & add them to pom.xml
+
+2) By default the @tests in test ng class run in alphabetical order.
+
+3) Also multiple test methods are also executed.

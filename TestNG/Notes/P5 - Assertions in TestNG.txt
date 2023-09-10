@@ -1,0 +1,22 @@
+8/9/2023 - Friday - 
+
+Tutorial Notes - 
+In this video, I have explained about "Assertions in TestNG".
+
+Points Covered:
+What is meant by an assertion?
+Are the assertions mandatory in tests?
+How to perform the assertions?
+
+My Notes based on tutorial - 
+
+1) Assertion is an expression which will verify the actual test outcome with expected test outcome.
+
+2) Assert are static methods.
+
+3) String actualTitle = driver.getTitle();
+		String expectedTitle = "HYR Tutorials - Google Searchh";
+		assertEquals(actualTitle, expectedTitle, "Title is Mismatched");
+
+4) To be able to use all the Asserts at once, go to import & put .* rather than .AssertEquals. 
+

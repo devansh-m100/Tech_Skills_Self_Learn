@@ -1,0 +1,6 @@
+8/9/2023 - 5:12pm - 
+TestNG Annotations & Flow of Execution - 
+
+1) TestNG Annotations is a piece of code which is inserted inside the program or business logic used to control the flow of execution of test methods.	
+
+2) Before writing the class name in the xml file, always include the package name using dot operators.	

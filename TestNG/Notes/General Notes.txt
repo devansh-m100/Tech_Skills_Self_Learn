@@ -1,0 +1,5 @@
+8/9/2023 - 
+
+1) The way to use dynamic elements XPATH is not by directly using the dynamic attribute values but to use ancestors, siblings etc. That is used the relations.
+
+2) 
