@@ -5,5 +5,4 @@ public class TestClassForTestNGMyOwn {
 		// TODO Auto-generated method stub
 		
 	}
-
 }

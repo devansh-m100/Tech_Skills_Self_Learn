@@ -1,0 +1,21 @@
+10/9/2023 - Sunday - 
+
+In tutorial notes - 
+
+In this video, I have explained about "Parameters in TestNG".
+
+1. What is the use of TestNG parameters?
+2. How to use the TestNG parameters?
+
+My Notes - 
+
+1) Parameter tag in xml is scope specific, like if you add it outside test & inside suite, it will have full suite scope and if you add parameter tag inside test it will have test scope.
+
+2) The main use of TestNG Parameters is when you want to take some input from the user rather than giving your own input in the code.
+
+3) Naming convention for name attribute of parameter tag in xml file is - "camelCasing".
+
+4) Any tag like for example 'parameter' tag can be used as a self closing tag when we are not going to add any labels to it.
+
+RUNNER CLASS - 
+A runner runs tests and notifies a RunNotifier of significant events as it does so

@@ -2,4 +2,5 @@
 
 1) The way to use dynamic elements XPATH is not by directly using the dynamic attribute values but to use ancestors, siblings etc. That is used the relations.
 
-2) 
+2) Got this thought while studying 8th Tutorial TestNG Parameters on 10/9/2023 8:24am - 
+Any tag like for example 'parameter' tag can be used as a self closing tag when we are not going to add any labels to it.

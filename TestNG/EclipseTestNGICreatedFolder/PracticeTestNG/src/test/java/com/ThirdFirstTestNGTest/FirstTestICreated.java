@@ -2,7 +2,7 @@
  *   Tutorial one, two, three 
  */
 
-package com.owncreatedpackagefortests;
+package com.ThirdFirstTestNGTest;
 
 import static org.testng.Assert.assertEquals;
 
